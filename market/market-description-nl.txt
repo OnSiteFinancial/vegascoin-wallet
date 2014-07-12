@@ -1,19 +1,19 @@
-Dit is een standalone Franko Wallet voor uw Android apparaat. U kan direct Frankos versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone Vegas Wallet voor uw Android apparaat. U kan direct Vegass versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
-• Weergeven van het wallet saldo in Franko en verschillende andere valuta.
-• Verzenden en ontvangen van Franko via NFC, QR-codes of Franko URLs.
-• Adresboek voor veelgebruikte Franko adressen.
+• Weergeven van het wallet saldo in Vegas en verschillende andere valuta.
+• Verzenden en ontvangen van Vegas via NFC, QR-codes of Vegas URLs.
+• Adresboek voor veelgebruikte Vegas adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over Franko connectiviteit en ontvangen Frankos.
-• Widget voor Franko saldo.
+• Systeem melding over Vegas connectiviteit en ontvangen Vegass.
+• Widget voor Vegas saldo.
 
-Voor meer informatie over Franko kunt u terecht op
-http://www.frankos.org
+Voor meer informatie over Vegas kunt u terecht op
+http://www.vegass.org
 
-Als u een bijdrage wil leveren aan Franko Wallet, het project is te vinden op
-https://github.com/HashEngineering/franko-wallet
+Als u een bijdrage wil leveren aan Vegas Wallet, het project is te vinden op
+https://github.com/HashEngineering/vegas-wallet
 
 Licentie: GPLv3
 Gebruik op eigen risico!

@@ -60,7 +60,7 @@ import de.schildbach.wallet.util.BitmapFragment;
 import de.schildbach.wallet.util.Qr;
 import de.schildbach.wallet.util.WalletUtils;
 
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 
 /**

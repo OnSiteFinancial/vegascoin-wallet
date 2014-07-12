@@ -85,7 +85,7 @@ import de.schildbach.wallet.util.HttpGetThread;
 import de.schildbach.wallet.util.Iso8601Format;
 import de.schildbach.wallet.util.Nfc;
 import de.schildbach.wallet.util.WalletUtils;
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 import com.google.bitcoin.core.*;
 
 

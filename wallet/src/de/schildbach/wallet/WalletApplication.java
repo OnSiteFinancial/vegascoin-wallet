@@ -70,7 +70,7 @@ import de.schildbach.wallet.util.CrashReporter;
 import de.schildbach.wallet.util.Io;
 import de.schildbach.wallet.util.LinuxSecureRandom;
 import de.schildbach.wallet.util.WalletUtils;
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 
 

@@ -42,7 +42,7 @@ import de.schildbach.wallet.ui.WalletActivity;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
 
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 
 

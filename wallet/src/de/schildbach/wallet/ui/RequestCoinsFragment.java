@@ -76,7 +76,7 @@ import de.schildbach.wallet.util.BitmapFragment;
 import de.schildbach.wallet.util.Bluetooth;
 import de.schildbach.wallet.util.Nfc;
 import de.schildbach.wallet.util.Qr;
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 /**
  * @author Andreas Schildbach

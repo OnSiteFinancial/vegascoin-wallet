@@ -1,19 +1,19 @@
-Tato aplikace je peněženka s Frankoy pro systém Android. Můžete posílat Frankoy mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
+Tato aplikace je peněženka s Vegasy pro systém Android. Můžete posílat Vegasy mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
 
 VLASTNOSTI:
 
-• Zobrazení zůstatku peněženky v Frankoech a několika jiných měnách.
-• Odesílání a přijímání Frankoů pomocí NFC, QR-kódů, nebo Franko adres.
+• Zobrazení zůstatku peněženky v Vegasech a několika jiných měnách.
+• Odesílání a přijímání Vegasů pomocí NFC, QR-kódů, nebo Vegas adres.
 • Adresář pro často používané adresy.
 • Možnost zadávání transakcí v offline režimu, k jejich zpracování dojde po připojení.
-• Oznamování v liště při synchronizaci a při přijetí Frankoů.
+• Oznamování v liště při synchronizaci a při přijetí Vegasů.
 • Widget s celkovým zůstatkem.
 
-Více informací o Frankoech
-http://www.frankos.org
+Více informací o Vegasech
+http://www.vegass.org
 
-Pokud chcete přispět do projektu Franko Wallet, naleznete jej na adrese
-https://github.com/HashEngineering/franko-wallet
+Pokud chcete přispět do projektu Vegas Wallet, naleznete jej na adrese
+https://github.com/HashEngineering/vegas-wallet
 
 License: GPLv3
 Použití pouze na vlastní riziko!

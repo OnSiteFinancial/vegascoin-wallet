@@ -35,7 +35,7 @@ import android.view.View;
 
 import com.google.zxing.ResultPoint;
 
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 /**
  * @author Andreas Schildbach

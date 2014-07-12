@@ -86,7 +86,7 @@ import de.schildbach.wallet.ui.InputParser.StringInputParser;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
 import de.schildbach.wallet.offline.SendBluetoothTask;
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 /**
  * @author Andreas Schildbach

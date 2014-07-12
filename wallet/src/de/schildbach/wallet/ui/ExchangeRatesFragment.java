@@ -53,7 +53,7 @@ import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.service.BlockchainService;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 /**
  * @author Andreas Schildbach

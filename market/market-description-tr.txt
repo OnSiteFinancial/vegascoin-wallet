@@ -1,20 +1,20 @@
-Franko'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Franko cüzdanı ilk mobil Franko uygulamasıdır ve muhtemelen en güvenli Franko uygulamasıdır!
+Vegas'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Vegas cüzdanı ilk mobil Vegas uygulamasıdır ve muhtemelen en güvenli Vegas uygulamasıdır!
 
 İŞLEVLERİ:
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Franko meblağlarının BTC ve mBTC olarak gösterilmesi.
+• Vegas meblağlarının BTC ve mBTC olarak gösterilmesi.
 • Dövizlere ve dövizlerden dönüştürme.
-• NFC, QR kodu veya Franko bağlantıları ile Franko gönderir ve alır.
-• Sık kullanılan Franko adresleri için adres defteri içerir.
+• NFC, QR kodu veya Vegas bağlantıları ile Vegas gönderir ve alır.
+• Sık kullanılan Vegas adresleri için adres defteri içerir.
 • Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
-• Alınan Franko'ler için sistem bildirimleri.
-• Franko bakiyesini görüntüleyen widget.
+• Alınan Vegas'ler için sistem bildirimleri.
+• Vegas bakiyesini görüntüleyen widget.
 
-Franko hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
-http://www.frankos.org
+Vegas hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
+http://www.vegass.org
 
-Franko Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
-https://github.com/HashEngineering/franko-wallet
+Vegas Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
+https://github.com/HashEngineering/vegas-wallet
 
 Lisans: GPLv3
 Tüm riski siz üstlenmiş olursunuz.

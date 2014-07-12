@@ -29,7 +29,7 @@ import com.google.bitcoin.params.MainNetParams;
 import com.google.bitcoin.params.TestNet3Params;
 import com.google.bitcoin.core.CoinDefinition;
 
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 
 /**
@@ -99,8 +99,8 @@ public class Constants
 	public static final String BINARY_URL = "http://code.google.com/p/bitcoin-wallet/downloads/list";
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://www.frankos.org/";
-    public static final String CREDITS_FORUM_URL = "http://forum.frankos.org/";
+    public static final String CREDITS_WEBSITE_URL = "http://www.vegass.org/";
+    public static final String CREDITS_FORUM_URL = "http://forum.vegass.org/";
 	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=2062";
 
 	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/#!/HashEngineering";

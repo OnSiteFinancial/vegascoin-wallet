@@ -53,7 +53,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.CircularProgressView;
 import de.schildbach.wallet.util.WalletUtils;
 
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 
 /**

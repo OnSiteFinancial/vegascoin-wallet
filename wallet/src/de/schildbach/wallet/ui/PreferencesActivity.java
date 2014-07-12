@@ -43,7 +43,7 @@ import com.actionbarsherlock.view.MenuItem;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.util.CrashReporter;
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 
 

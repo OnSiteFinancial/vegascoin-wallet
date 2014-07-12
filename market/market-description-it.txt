@@ -1,21 +1,21 @@
-Porta i tuoi Franko sempre con te, in tasca! Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Franko Wallet è la prima Franko app mobile, e probabilmente anche la più sicura!
+Porta i tuoi Vegas sempre con te, in tasca! Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Vegas Wallet è la prima Vegas app mobile, e probabilmente anche la più sicura!
 
 CARATTERISTICHE:
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di Franko in FRK e mFRK.
+• Mostra l'ammontare di Vegas in VGC e mVGC.
 • Conversione verso e dalle monete nazionali.
-• Invio e ricevimento di Franko tramite NFC, codici QR o URL Franko.
-• Rubrica degli indirizzi per usare indirizzi Franko regolarmente.
+• Invio e ricevimento di Vegas tramite NFC, codici QR o URL Vegas.
+• Rubrica degli indirizzi per usare indirizzi Vegas regolarmente.
 • Quando sei offline, puoi comunque ancora pagare via Bluetooth.
 • Sistema di notifica per le monete ricevute.
-• App Widget per il saldo Franko
+• App Widget per il saldo Vegas
 
-Puoi trovare altri dettagli su Franko su
-http://www.frankos.org
+Puoi trovare altri dettagli su Vegas su
+http://www.vegass.org
 
-Se vuoi contribuire a Franko Wallet, il progetto si trova su
-https://github.com/HashEngineering/franko-wallet
+Se vuoi contribuire a Vegas Wallet, il progetto si trova su
+https://github.com/HashEngineering/vegas-wallet
 
 Licenza: GPLv3
 Usalo a tuo rischio!

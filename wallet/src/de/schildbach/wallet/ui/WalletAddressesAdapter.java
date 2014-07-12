@@ -42,7 +42,7 @@ import com.google.bitcoin.core.Wallet;
 import de.schildbach.wallet.AddressBookProvider;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.WalletUtils;
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 
 public class WalletAddressesAdapter extends BaseAdapter

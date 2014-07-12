@@ -34,7 +34,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
 
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 
 /**

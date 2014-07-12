@@ -1,19 +1,19 @@
-Consiste en una cartera de Frankos para tu dispositivo Android. Puedes enviar Frankos entre teléfonos haciendo explorar los códigos QR que muestra la aplicación o mediante NFC (Near Field Communication).
+Consiste en una cartera de Vegass para tu dispositivo Android. Puedes enviar Vegass entre teléfonos haciendo explorar los códigos QR que muestra la aplicación o mediante NFC (Near Field Communication).
 
 CARACTERÍSTICAS:
 
-• Visualización del saldo de la cartera en Franko y en otras monedas.
-• Envío y recpción de Frankos a través de NFC, códigos QR o URL Franko.
-• Libreta de direcciones para guardar las direcciones Franko utilizadas habitualmente.
+• Visualización del saldo de la cartera en Vegas y en otras monedas.
+• Envío y recpción de Vegass a través de NFC, códigos QR o URL Vegas.
+• Libreta de direcciones para guardar las direcciones Vegas utilizadas habitualmente.
 • Las transacciones se pueden llevar a cabo sin conexión, ejecutándose al recuperar la conexión.
-• Notificaciones de sistema para la conectividad a la red Franko y para la recepción de Frankos.
-• Widget de aplicación para el saldo Franko.
+• Notificaciones de sistema para la conectividad a la red Vegas y para la recepción de Vegass.
+• Widget de aplicación para el saldo Vegas.
 
-Puedes descubrir más sobre Franko en
-http://www.frankos.org
+Puedes descubrir más sobre Vegas en
+http://www.vegass.org
 
-Si quieres contribuir a Franko Wallet, el proyecto está localizado en
-https://github.com/HashEngineering/franko-wallet
+Si quieres contribuir a Vegas Wallet, el proyecto está localizado en
+https://github.com/HashEngineering/vegas-wallet
 
 Licencia: GPLv3
 ¡Úsalo bajo tu propia responsabilidad!

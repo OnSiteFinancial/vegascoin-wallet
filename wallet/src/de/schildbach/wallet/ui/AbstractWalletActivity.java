@@ -34,7 +34,7 @@ import com.actionbarsherlock.app.SherlockFragmentActivity;
 
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 
 /**

@@ -84,7 +84,7 @@ import de.schildbach.wallet.util.CrashReporter;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
 
-import hashengineering.franko.wallet.R;
+import hashengineering.vegas.wallet.R;
 
 import de.schildbach.wallet.util.ThrottlingWalletChangeListener;
 import org.litecoin.LitcoinPeerDBDiscovery;

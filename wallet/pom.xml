@@ -7,7 +7,7 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 	<version>1.00</version>
-	<name>Franko Wallet</name>
+	<name>Vegas Wallet</name>
 	<parent>
 		<groupId>de.schildbach.wallet</groupId>
 		<artifactId>base</artifactId>
@@ -48,10 +48,10 @@
 			<type>apklib</type>
 		</dependency>
 
-		<!-- com.google.franko.* -->
+		<!-- com.google.vegas.* -->
 		<dependency>
 			<groupId>com.google</groupId>
-			<artifactId>frankoj</artifactId>
+			<artifactId>vegasj</artifactId>
 
 			<version>0.11</version>
 		</dependency>
