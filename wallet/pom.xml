@@ -117,6 +117,7 @@
 					<plugin>
 						<groupId>com.jayway.maven.plugins.android.generation2</groupId>
 						<artifactId>android-maven-plugin</artifactId>
+                        <version>3.8.0</version>
 						<configuration>
 							<release>true</release>
 							<proguard>
@@ -147,6 +148,7 @@
 			<plugin>
 				<groupId>com.jayway.maven.plugins.android.generation2</groupId>
 				<artifactId>android-maven-plugin</artifactId>
+                <version>3.8.0</version>
 				<configuration>
 					<excludeJarResources>
 						<excludeJarResource>.*\.jar$</excludeJarResource>
@@ -175,7 +177,7 @@
 					</additionalBuildcommands>
 					<classpathContainers>
 						<classpathContainer>com.android.ide.eclipse.adt.ANDROID_FRAMEWORK</classpathContainer>
-						<!-- This is a workaround: we do not want JRE_CONTAINER, however if we remove it, it will be automatically added, and 
+						<!-- This is a workaround: we do not want JRE_CONTAINER, however if we remove it, it will be automatically added, and
 							placed first. So we add it in the second position, so that the project is recognized as an Android project. -->
 						<classpathContainer>org.eclipse.jdt.launching.JRE_CONTAINER</classpathContainer>
 					</classpathContainers>
