@@ -1,4 +1,4 @@
-Dit is een standalone Vegas Wallet voor uw Android apparaat. U kan direct Vegass versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone Vegas Wallet voor uw Android apparaat. U kan direct Vegascoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
@@ -6,7 +6,7 @@ FUNCTIES:
 • Verzenden en ontvangen van Vegas via NFC, QR-codes of Vegas URLs.
 • Adresboek voor veelgebruikte Vegas adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over Vegas connectiviteit en ontvangen Vegass.
+• Systeem melding over Vegas connectiviteit en ontvangen Vegascoins.
 • Widget voor Vegas saldo.
 
 Voor meer informatie over Vegas kunt u terecht op

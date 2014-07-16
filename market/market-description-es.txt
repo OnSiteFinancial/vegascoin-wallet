@@ -1,12 +1,12 @@
-Consiste en una cartera de Vegass para tu dispositivo Android. Puedes enviar Vegass entre teléfonos haciendo explorar los códigos QR que muestra la aplicación o mediante NFC (Near Field Communication).
+Consiste en una cartera de Vegascoins para tu dispositivo Android. Puedes enviar Vegascoins entre teléfonos haciendo explorar los códigos QR que muestra la aplicación o mediante NFC (Near Field Communication).
 
 CARACTERÍSTICAS:
 
 • Visualización del saldo de la cartera en Vegas y en otras monedas.
-• Envío y recpción de Vegass a través de NFC, códigos QR o URL Vegas.
+• Envío y recpción de Vegascoins a través de NFC, códigos QR o URL Vegas.
 • Libreta de direcciones para guardar las direcciones Vegas utilizadas habitualmente.
 • Las transacciones se pueden llevar a cabo sin conexión, ejecutándose al recuperar la conexión.
-• Notificaciones de sistema para la conectividad a la red Vegas y para la recepción de Vegass.
+• Notificaciones de sistema para la conectividad a la red Vegas y para la recepción de Vegascoins.
 • Widget de aplicación para el saldo Vegas.
 
 Puedes descubrir más sobre Vegas en

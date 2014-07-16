@@ -1,12 +1,12 @@
-Detta är en fristående Vegas plånbok för Android. Du kan skicka Vegass mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
+Detta är en fristående Vegas plånbok för Android. Du kan skicka Vegascoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
 
 FUNKTIONER:
 
-• Visa plånbokens värde i Vegass och andra valutor.
-• Skicka och ta emot Vegass via NFC, QR-koder eller en Vegas URL.
+• Visa plånbokens värde i Vegascoins och andra valutor.
+• Skicka och ta emot Vegascoins via NFC, QR-koder eller en Vegas URL.
 • Adressbok för de Vegas adresser man använder ofta.
 • Påbörja transaktioner medan du är offline, de utförs när du kommer online.
-• Systemnotifikationer när Vegass skickats till dig, och när plånboken kommunicerar med nätverket.
+• Systemnotifikationer när Vegascoins skickats till dig, och när plånboken kommunicerar med nätverket.
 • App widget som visar plånbokens värde.
 
 Du kan lära dig mer om Vegas genom att besöka
