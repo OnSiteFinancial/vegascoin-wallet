@@ -80,7 +80,7 @@ public final class AboutActivity extends SherlockPreferenceActivity
         findPreference(KEY_ABOUT_CREDITS_WEBSITE).setSummary(Constants.CREDITS_WEBSITE_URL);
         findPreference(KEY_ABOUT_CREDITS_FORUM).setSummary(Constants.CREDITS_FORUM_URL);
 
-        String nativeSummary = String.format("FGW %s", hashengineering.difficulty.VegasGravityWell.fgw.isNativeLibraryLoaded()?"active":"disabled");
+        String nativeSummary = String.format("VGW %s", hashengineering.difficulty.VegasGravityWell.vgw.isNativeLibraryLoaded()?"active":"disabled");
         findPreference(KEY_ABOUT_NATIVESUPPORT).setSummary(nativeSummary);
 
 	}
