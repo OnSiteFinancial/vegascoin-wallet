@@ -10,7 +10,7 @@ FUNKCJE:
 • Widget na stan konta Vegas.
 
 Więcej o Vegas dowiesz się pod adresem:
-http://www.vegass.org
+http://www.vegascoin.co
 
 Jeżeli chcesz wesprzeć Vegas Wallet, kody źródłowe projektu znajdują się pod adresem:
 https://github.com/HashEngineering/vegas-wallet

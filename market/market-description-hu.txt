@@ -12,7 +12,7 @@ ELŐNYÖK:
 • Widget a Vegas egyenlegről.
 
 Bővebben a Vegas-ról:
-http://www.vegass.org
+http://www.vegascoin.co
 
 Ha hozzájárulnál a Vegas Wallet projekthez:
 https://github.com/HashEngineering/vegas-wallet

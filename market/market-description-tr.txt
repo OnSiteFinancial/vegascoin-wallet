@@ -11,7 +11,7 @@ Vegas'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak ça
 • Vegas bakiyesini görüntüleyen widget.
 
 Vegas hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
-http://www.vegass.org
+http://www.vegascoin.co
 
 Vegas Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
 https://github.com/HashEngineering/vegas-wallet

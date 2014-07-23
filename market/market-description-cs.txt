@@ -10,7 +10,7 @@ VLASTNOSTI:
 • Widget s celkovým zůstatkem.
 
 Více informací o Vegasech
-http://www.vegass.org
+http://www.vegascoin.co
 
 Pokud chcete přispět do projektu Vegas Wallet, naleznete jej na adrese
 https://github.com/HashEngineering/vegas-wallet

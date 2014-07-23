@@ -10,7 +10,7 @@ FUNKTIONER:
 • App widget som visar plånbokens värde.
 
 Du kan lära dig mer om Vegas genom att besöka
-http://www.vegass.org
+http://www.vegascoin.co
 
 Om du vill hjälpa till med utvecklingen av Vegas Wallet så kan du hitta projektet här
 https://github.com/HashEngineering/vegas-wallet

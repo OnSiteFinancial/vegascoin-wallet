@@ -12,7 +12,7 @@
 • Виджет для отображения баланса Vegas.
 
 Вы можете узнать больше о Vegas на
-http://www.vegass.org
+http://www.vegascoin.co
 
 Если вы хотите помочь бумажнику Vegas, проект располагается по адресу
 https://github.com/HashEngineering/vegas-wallet

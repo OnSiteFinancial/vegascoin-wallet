@@ -10,7 +10,7 @@ FUNCTIES:
 • Widget voor Vegas saldo.
 
 Voor meer informatie over Vegas kunt u terecht op
-http://www.vegass.org
+http://www.vegascoin.co
 
 Als u een bijdrage wil leveren aan Vegas Wallet, het project is te vinden op
 https://github.com/HashEngineering/vegas-wallet

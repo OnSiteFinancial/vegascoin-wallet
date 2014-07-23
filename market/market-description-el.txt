@@ -10,7 +10,7 @@
 • App widget για το υπόλοιπο των Vegas.
 
 Μπορείτε να βρείτε περισσότερα για τη χρήση Vegas στο
-http://www.vegass.org
+http://www.vegascoin.co
 
 Αν θέλετε να συμβάλει στη τη χρήση του Vegas Wallet, το έργο βρίσκεται εδώ:
 https://github.com/HashEngineering/vegas-wallet

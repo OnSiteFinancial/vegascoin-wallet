@@ -12,7 +12,7 @@ CARACTERÍSTICAS:
 • Widget para saldo de Vegascoins.
 
 Mais informações sobre Vegas em
-http://www.vegass.org
+http://www.vegascoin.co
 
 Se você deseja contribuir com o Vegas Wallet, o projeto encontra-se em
 https://github.com/HashEngineering/vegas-wallet

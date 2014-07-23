@@ -11,7 +11,7 @@ TÍNH NĂNG:
 • Tiện ích dành riêng cho Vegas.
 
 Bạn có thể tìm hiểu thêm về Vegas tại
-http://www.vegass.org
+http://www.vegascoin.co
 
 Nếu bạn có ý tưởng đóng góp cho Vegas Wallet, hãy truy cập vào trang web
 https://github.com/HashEngineering/vegas-wallet

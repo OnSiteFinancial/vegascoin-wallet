@@ -12,7 +12,7 @@ FONCTIONS :
 • Widget affichant le solde Vegas.
 
 Vous pouvez en apprendre plus au sujet de Vegas sur
-http://www.vegass.org
+http://www.vegascoin.co
 
 Si vous voulez contribuer à Vegas Wallet, le projet se trouve sur
 https://github.com/HashEngineering/vegas-wallet

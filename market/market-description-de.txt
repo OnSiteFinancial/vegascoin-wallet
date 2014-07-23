@@ -13,7 +13,7 @@ FEATURES:
 >>>>>>> upstream/prod
 
 Weitere Informationen zu Vegas findest Du unter
-http://www.vegass.org
+http://www.vegascoin.co
 
 Wenn Du zu Vegas Wallet beitragen willst, das Projekt befindet sich auf
 https://github.com/HashEngineering/vegas-wallet

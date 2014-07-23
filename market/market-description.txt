@@ -12,7 +12,7 @@ FEATURES:
 • App widget for Vegas balance.
 
 You can find more about Vegas at
-http://www.vegass.org
+http://www.vegascoin.co
 
 If you want to contribute to Vegas Wallet, the project is located at
 https://github.com/HashEngineering/vegas-wallet
