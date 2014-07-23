@@ -7,7 +7,7 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 	<version>1.00</version>
-	<name>Vegascoin Wallet</name>
+	<name>VegasCoin Wallet</name>
 	<parent>
 		<groupId>de.schildbach.wallet</groupId>
 		<artifactId>base</artifactId>

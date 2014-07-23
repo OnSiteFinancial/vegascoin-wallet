@@ -104,7 +104,7 @@ public class Constants
 	public static final String CREDITS_ICON_URL = "http://vegascoin.co/about-vegascoin/";
 
 	public static final String AUTHOR_TWITTER_URL = "http://www.twitter.com/#!/vegascoinco";
-	public static final String AUTHOR_GOOGLEPLUS_URL = "https://plus.google.com/+VegascoinCo702";
+	public static final String AUTHOR_GOOGLEPLUS_URL = "https://plus.google.com/+VegasCoinCo702";
 
 	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://plus.google.com/communities/107058929828361400602";
 
