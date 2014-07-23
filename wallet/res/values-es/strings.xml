@@ -11,9 +11,9 @@
 	<string name="blockchain_state_progress_stalled">interrumpida</string>
 	<string name="blockchain_state_progress_problem_storage">No se descarga la blockchain: problema de espacio</string>
 	<string name="blockchain_state_progress_problem_network">No se descarga la blockchain: problema de red</string>
-	<string name="wallet_address_fragment_your">Tu dirección Vegas:</string>
+	<string name="wallet_address_fragment_your">Tu dirección Vegascoin:</string>
 	<string name="wallet_address_fragment_clipboard_msg">Dirección Vegascoin copiada al portapapeles</string>
-	<string name="wallet_addresses_fragment_add_dialog_title">Añadir dirección Vegas</string>
+	<string name="wallet_addresses_fragment_add_dialog_title">Añadir dirección Vegascoin</string>
 	<string name="wallet_addresses_fragment_add_dialog_message">Las direcciones Vegascoin no pueden eliminarse. ¿Quieres añadir una nueva dirección a tu cartera?</string>
 	<string name="exchange_rates_activity_title">Tasas de cambio</string>
 	<string name="exchange_rates_fragment_empty_text">No se pueden cargar los tipos de cambio</string>
@@ -128,7 +128,7 @@
 	<string name="scan_camera_problem_dialog_title">Lo siento</string>
 	<string name="scan_camera_problem_dialog_message">La cámara tiene un problema. Posiblemente necesites reiniciar tu dispositivo.</string>
 	<string name="input_parser_invalid_bitcoin_uri">URI de Vegascoin inválida:\n%s</string>
-	<string name="input_parser_invalid_address">¡Dirección inválida de Vegas!\n(¿Confusión Mainnet/Testnet?)</string>
+	<string name="input_parser_invalid_address">¡Dirección inválida de Vegascoin!\n(¿Confusión Mainnet/Testnet?)</string>
 	<string name="preferences_activity_title">Preferencias</string>
 	<string name="preferences_category_diagnostics">Diagnósticos</string>
 	<string name="preferences_category_labs">Labs</string>

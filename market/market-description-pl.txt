@@ -4,10 +4,10 @@ FUNKCJE:
 
 • Wyświetlanie stanu konta portfela w Vegascoin i rożnych innych walutach.
 • Wysyłanie i odbieranie Vegascoin przez NFC, kod QR albo Vegascoin URL.
-• Książka adresowa dla regularnie używanych adresów Vegas.
+• Książka adresowa dla regularnie używanych adresów Vegascoin.
 • Możliwość dodania transakcji offline, wykonywanych po połączeniu z siecią.
 • Notyfikacje systemowe o połączeniu z siecią Vegascoin i otrzymanych monetach.
-• Widget na stan konta Vegas.
+• Widget na stan konta Vegascoin.
 
 Więcej o Vegascoin dowiesz się pod adresem:
 http://www.vegascoin.co

@@ -12,9 +12,9 @@
 	<string name="blockchain_state_progress_stalled">Sincronização parada</string>
 	<string name="blockchain_state_progress_problem_storage">Sincronizando: Problema de armazenamento</string>
 	<string name="blockchain_state_progress_problem_network">Sincronizando: Problema na rede</string>
-	<string name="wallet_address_fragment_your">Seu Endereço Vegas:</string>
+	<string name="wallet_address_fragment_your">Seu Endereço Vegascoin:</string>
 	<string name="wallet_address_fragment_clipboard_msg">Endereço Vegascoin copiado</string>
-	<string name="wallet_addresses_fragment_add_dialog_title">Adicionar endereço Vegas</string>
+	<string name="wallet_addresses_fragment_add_dialog_title">Adicionar endereço Vegascoin</string>
 	<string name="wallet_addresses_fragment_add_dialog_message">Os endereços Vegascoin não podem ser excluidos. Você deseja adicionar um novo endereço à sua carteira?</string>
 	<string name="wallet_balance_fragment_replaying">Saldo indisponível durante a reavaliação.</string>
 	<string name="exchange_rates_activity_title">Taxas de Câmbio</string>

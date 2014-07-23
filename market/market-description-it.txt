@@ -5,7 +5,7 @@ CARATTERISTICHE:
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
 • Mostra l'ammontare di Vegascoin in VGC e mVGC.
 • Conversione verso e dalle monete nazionali.
-• Invio e ricevimento di Vegascoin tramite NFC, codici QR o URL Vegas.
+• Invio e ricevimento di Vegascoin tramite NFC, codici QR o URL Vegascoin.
 • Rubrica degli indirizzi per usare indirizzi Vegascoin regolarmente.
 • Quando sei offline, puoi comunque ancora pagare via Bluetooth.
 • Sistema di notifica per le monete ricevute.

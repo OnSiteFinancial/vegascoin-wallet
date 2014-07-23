@@ -7,7 +7,7 @@
 	<string name="wallet_disclaimer_fragment_remind_safety">Χρησιμοποιήστε με δική σας ευθύνη. Διαβάστε τις οδηγίες ασφαλείας</string>
 	<string name="wallet_address_fragment_your">H Vegascoin διεύθυνή σας:</string>
 	<string name="wallet_address_fragment_clipboard_msg">H Vegascoin διεύθυνή αντιγράφικε στο clipboard</string>
-	<string name="wallet_addresses_fragment_add_dialog_title">Προσθήκη διεύθυνσης Vegas</string>
+	<string name="wallet_addresses_fragment_add_dialog_title">Προσθήκη διεύθυνσης Vegascoin</string>
 	<string name="wallet_addresses_fragment_add_dialog_message">Οι Vegascoin διευθύνσεις δεν μπορούν να διαγραφούν. Θέλετε να προσθέσετε μια νέα διεύθυνση στο πορτοφόλι σας;</string>
 	<string name="exchange_rates_fragment_empty_text">Δεν ήταν δυνατή η φόρτωση των συναλλαγματικών ισοτιμιών</string>
 	<string name="wallet_transactions_fragment_tab_received">Ελήφθη</string>
@@ -26,7 +26,7 @@
 	<string name="send_coins_activity_title">Αποστολή Vegascoin coins</string>
 	<string name="send_coins_fragment_receiving_address_label">Πληρωμή σε</string>
 	<string name="send_coins_fragment_receiving_address_hint">πληκτρολογήστε τη διεύθυνση ή το όνομα</string>
-	<string name="send_coins_fragment_receiving_address_error">Άκυρα Διεύθυνση Vegas!</string>
+	<string name="send_coins_fragment_receiving_address_error">Άκυρα Διεύθυνση Vegascoin!</string>
 	<string name="send_coins_fragment_available_label">Διαθέσιμο για τις ξόδεμα</string>
 	<string name="send_coins_fragment_pending">(VGC %s αναμονή για την επιβεβαίωση)</string>
 	<string name="send_coins_fragment_amount_label">Ποσό να πληρωθεί</string>

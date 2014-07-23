@@ -5,11 +5,11 @@ FONCTIONS :
 • Pas d'inscription, de service Web ou de nuage de nécessaire ! Ce portefeuille est décentralisé et de pair-à-pair.
 • Affichage du montant de Vegascoin en VGC et mVGC.
 • Conversion de et vers des devises nationales.
-• Envoi et réception des Vegascoin via NFC, codes QR ou des URLs Vegas.
+• Envoi et réception des Vegascoin via NFC, codes QR ou des URLs Vegascoin.
 • Carnet d'adresse pour les adresses Vegascoin utilisées régulièrement.
 • Quand vous êtes hors-ligne vous pouvez quand même payez via Bluetooth.
 • Notification du système pour les pièces reçues.
-• Widget affichant le solde Vegas.
+• Widget affichant le solde Vegascoin.
 
 Vous pouvez en apprendre plus au sujet de Vegascoin sur
 http://www.vegascoin.co

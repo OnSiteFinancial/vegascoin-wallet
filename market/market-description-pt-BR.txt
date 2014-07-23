@@ -5,7 +5,7 @@ CARACTERÍSTICAS:
 • Sem necessidade de cadastro, serviço web ou hospedagem! Esta carteira é descentralizada e "peer to peer".
 • Exibe a quantidade de Vegascoins em BTC e mBTC.
 • Conversão para moedas nacionais.
-• Envio e recebimento de Vegascoins via NFC, códigos QR ou endereços Vegas.
+• Envio e recebimento de Vegascoins via NFC, códigos QR ou endereços Vegascoin.
 • Catálogo para guardar os endereços mais utilizados.
 • Quando você estiver off-line, você ainda pode pagar via Bluetooth.
 • Notificações do sistema para moedas recebidas.

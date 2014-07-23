@@ -14,7 +14,7 @@
 	<string name="blockchain_state_progress_problem_network">Sinkronisasi: Masalah jaringan</string>
 	<string name="wallet_address_fragment_your">Alamat Vegascoin Anda:</string>
 	<string name="wallet_address_fragment_clipboard_msg">Alamat Vegascoin disalin</string>
-	<string name="wallet_addresses_fragment_add_dialog_title">Tambahkan alamat Vegas</string>
+	<string name="wallet_addresses_fragment_add_dialog_title">Tambahkan alamat Vegascoin</string>
 	<string name="wallet_addresses_fragment_add_dialog_message">Alamat Vegascoin tidak dapat dihapus. Apakah Anda ingin menambahkan alamat baru?</string>
 	<string name="wallet_balance_fragment_replaying">Saldo tidak tersedia saat pengulangan.</string>
 	<string name="exchange_rates_activity_title">Nilai Tukar</string>
@@ -49,7 +49,7 @@
 	<string name="wallet_version_dialog_button_binary">Unduh</string>
 	<string name="wallet_old_sdk_dialog_title">Versi Android kedaluwarsa</string>
 	<string name="wallet_old_sdk_dialog_message">Salah satu kemungkinan Vegascoin Wallet versi akan datang tidak akan mendukung ponsel Anda lagi. Dalam beberapa kasus, akan sulit untuk menggunakan koin di ponsel ini.\n\nKecuali Anda tahu apa yang Anda lakukan, sangat direkomendasikan untuk segera memindahkan koin Anda.</string>
-	<string name="send_coins_activity_title">Kirim Vegas</string>
+	<string name="send_coins_activity_title">Kirim Vegascoin</string>
 	<string name="send_coins_fragment_receiving_address_label">Bayar ke</string>
 	<string name="send_coins_fragment_receiving_address_hint">masukkan alamat atau nama</string>
 	<string name="send_coins_fragment_receiving_address_error">Alamat Vegascoin Salah!</string>
@@ -69,7 +69,7 @@
 	<string name="send_coins_error_msg">Gagal mengirim koin!</string>
 	<string name="send_coins_options_empty">Dompet kosong</string>
 	<string name="send_coins_address_context_clear_title">Masukkan alamat baru</string>
-	<string name="request_coins_activity_title">Meminta Vegas</string>
+	<string name="request_coins_activity_title">Meminta Vegascoin</string>
 	<string name="request_coins_fragment_address_label">Alamat untuk diminta ke</string>
 	<string name="request_coins_fragment_include_address_label">masukkan label dgn alamat</string>
 	<string name="request_coins_fragment_amount_label">Jumlah permintaan (pilihan)</string>

@@ -5,9 +5,9 @@
 	<string name="toast_wallet_reset">Portfel został zresetowany,\nponowne załadowanie potrwa trochę czasu</string>
 	
 	<string name="wallet_disclaimer_fragment_remind_safety">Używasz jej na własne ryzyko. Proszę przeczytaj wskazówki bezpieczeństwa.</string>
-	<string name="wallet_address_fragment_your">Twój adres Vegas:</string>
+	<string name="wallet_address_fragment_your">Twój adres Vegascoin:</string>
 	<string name="wallet_address_fragment_clipboard_msg">Kopiuj adres Vegascoin do schowka</string>
-	<string name="wallet_addresses_fragment_add_dialog_title">Dodaj adres Vegas</string>
+	<string name="wallet_addresses_fragment_add_dialog_title">Dodaj adres Vegascoin</string>
 	<string name="wallet_addresses_fragment_add_dialog_message">Adres Vegascoin nie może być skasowany. Chcesz dodać nowy adres do Twojego portfela?</string>
 	<string name="exchange_rates_fragment_empty_text">Kurs wymiany nie mógł być załadowany</string>
 	<string name="wallet_transactions_fragment_tab_received">Otrzymane</string>
@@ -21,10 +21,10 @@
 	<string name="wallet_low_storage_dialog_msg">Vegascoin Wallet używa pamięć wewnętrzną na zapamiętywanie transakcji i bloków. Jak nie będzie miejsca w pamięci, portfel przestanie pracować i Twoje Vegasy będą narażone na ryzyko!\n\n Chcesz otworzyć administratora aplikacji i odinstalować niepotrzebne aplikacje?</string>
 	<string name="wallet_low_storage_dialog_button_apps">Zarządzaj aplikacjami</string>
 
-	<string name="send_coins_activity_title">Wyslij Vegas</string>
+	<string name="send_coins_activity_title">Wyslij Vegascoin</string>
 	<string name="send_coins_fragment_receiving_address_label">Zapłać</string>
 	<string name="send_coins_fragment_receiving_address_hint">Wpisz adres lub imię</string>
-	<string name="send_coins_fragment_receiving_address_error">Nieważny adres Vegas!</string>
+	<string name="send_coins_fragment_receiving_address_error">Nieważny adres Vegascoin!</string>
 	<string name="send_coins_fragment_available_label">Do dyspozycji</string>
 	<string name="send_coins_fragment_pending">(VGC %s czekanie na potwierdzenie)</string>
 	<string name="send_coins_fragment_amount_label">Kwota do zapłacenia</string>
@@ -32,7 +32,7 @@
 	<string name="send_coins_sending_msg">Wysyłanie…</string>
 	<string name="send_coins_error_msg">Problem z wysłaniem monet!</string>
 
-	<string name="request_coins_activity_title">Zapytaj o Vegas</string>
+	<string name="request_coins_activity_title">Zapytaj o Vegascoin</string>
 	<string name="request_coins_fragment_amount_label">Zapytana kwota (opcjonalna)</string>
 	<string name="request_coins_fragment_initiate_request_qr">Niech ten kod zostanie zeskanowany przez wysyłającego.</string>
 	<string name="request_coins_fragment_initiate_request_nfc">Albo dotknij kod z NFC zdolnym aparatem.</string>

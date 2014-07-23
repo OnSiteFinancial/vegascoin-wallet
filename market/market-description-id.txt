@@ -4,11 +4,11 @@ FITUR:
 
 • Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
 • Tampilkan saldo dompet dalam Vegascoin dan mata uang lainnya.
-• Mengirim dan menerima Vegascoin via NFC, kode-QR atau Tautan Vegas.
+• Mengirim dan menerima Vegascoin via NFC, kode-QR atau Tautan Vegascoin.
 • Buku alamat untuk alamat penggunaan Vegascoin secara reguler.
 • Masukkan transaksi saat offline, akan dilaksanakan ketika online.
 • Notifikasi sistem untuk konektivitas Vegascoin dan menerima koin.
-• Widget Apl untuk saldo Vegas.
+• Widget Apl untuk saldo Vegascoin.
 
 Anda dapat mengetahui lebih mengenai Vegascoin di
 http://www.vegascoin.co

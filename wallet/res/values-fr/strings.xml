@@ -161,7 +161,7 @@
 	<string name="import_export_keys_dialog_password">mot de passe</string>
 	<string name="import_export_keys_dialog_show">Afficher le mot de passe</string>
 	<string name="import_export_keys_dialog_failure_title">Erreur</string>
-	<string name="import_keys_intent_filter_action">Récupération des clefs Vegas</string>
+	<string name="import_keys_intent_filter_action">Récupération des clefs Vegascoin</string>
 	<string name="scan_camera_problem_dialog_title">Désolé</string>
 	<string name="scan_camera_problem_dialog_message">La caméra a un problème. Vous devez probablement redémarrer votre appareil.</string>
 	<string name="input_parser_cannot_classify">Impossible de classifier l\'entrée :\n%s</string>

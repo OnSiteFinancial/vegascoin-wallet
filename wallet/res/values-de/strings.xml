@@ -15,10 +15,10 @@
 	<string name="blockchain_state_progress_problem_storage">Synchronisation: Speicherplatz-Problem</string>
 	<string name="blockchain_state_progress_problem_network">Synchronisation: Netzwerk-Problem</string>
 
-	<string name="wallet_address_fragment_your">Deine Vegas-Adresse:</string>
-	<string name="wallet_address_fragment_clipboard_msg">Vegas-Adresse ins Clipboard kopiert</string>
-	<string name="wallet_addresses_fragment_add_dialog_title">Vegas-Adresse hinzufügen</string>
-	<string name="wallet_addresses_fragment_add_dialog_message">Vegas-Adressen können nicht gelöscht werden. Möchtest Du eine neue Adresse zu deiner Wallet hinzufügen?</string>
+	<string name="wallet_address_fragment_your">Deine Vegascoin-Adresse:</string>
+	<string name="wallet_address_fragment_clipboard_msg">Vegascoin-Adresse ins Clipboard kopiert</string>
+	<string name="wallet_addresses_fragment_add_dialog_title">Vegascoin-Adresse hinzufügen</string>
+	<string name="wallet_addresses_fragment_add_dialog_message">Vegascoin-Adressen können nicht gelöscht werden. Möchtest Du eine neue Adresse zu deiner Wallet hinzufügen?</string>
 
 	<string name="wallet_balance_fragment_replaying">Guthaben ist während des Replays nicht verfügbar.</string>
 	<string name="exchange_rates_activity_title">Wechselkurse</string>
@@ -62,7 +62,7 @@
 	<string name="send_coins_fragment_receiving_address_label">Empfänger</string>
 	<string name="send_coins_fragment_receiving_address_hint">Adresse oder Namen</string>
 
-	<string name="send_coins_fragment_receiving_address_error">Ungültige Vegas-Adresse!</string>
+	<string name="send_coins_fragment_receiving_address_error">Ungültige Vegascoin-Adresse!</string>
 	<string name="send_coins_fragment_receiving_address_error_cross_network">Kann %s-Adresse mit dieser Wallet nicht nutzen!</string>
 	<string name="send_coins_fragment_receiving_address_error_cross_network_unknown">Kann Adresse von unbekanntem Netzwerk mit dieser Wallet nicht nutzen!</string>
 
@@ -156,18 +156,18 @@
 	<string name="export_keys_dialog_failure">Deine privaten Schlüssel konnten nicht gesichert werden:\n%s</string>
 	<string name="export_keys_dialog_button_archive">Archivieren</string>
 	<string name="export_keys_dialog_mail_subject">Vegascoin Wallet Sicherung der privaten Schlüssel</string>
-	<string name="export_keys_dialog_mail_text">Die verschlüsselte Datei im Anhang enthält private Vegas-Schlüssel und sollte sicher verwahrt werden. Vergiss das Verschlüsselungs-Passwort nicht!</string>
+	<string name="export_keys_dialog_mail_text">Die verschlüsselte Datei im Anhang enthält private Vegascoin-Schlüssel und sollte sicher verwahrt werden. Vergiss das Verschlüsselungs-Passwort nicht!</string>
 	<string name="export_keys_dialog_mail_intent_chooser">Schlüssel archivieren mit…</string>
 	<string name="import_export_keys_dialog_password">Passwort</string>
 	<string name="import_export_keys_dialog_show">Passwort zeigen</string>
 	<string name="import_export_keys_dialog_failure_title">Fehler</string>
-	<string name="import_keys_intent_filter_action">Wiederherstellung der Vegas-Schlüssel</string>
+	<string name="import_keys_intent_filter_action">Wiederherstellung der Vegascoin-Schlüssel</string>
 
 	<string name="scan_camera_problem_dialog_title">Sorry</string>
 	<string name="scan_camera_problem_dialog_message">Die Kamera hat ein Problem. Evtl. musst du dein Gerät neu starten.</string>
 
-	<string name="input_parser_invalid_bitcoin_uri">Ungültige Vegas-URI:\n%s</string>
-	<string name="input_parser_invalid_address">Ungültige Vegas-Adresse gelesen!\n(Versuchst Du Mainnet/Testnet zu mischen?)</string>
+	<string name="input_parser_invalid_bitcoin_uri">Ungültige Vegascoin-URI:\n%s</string>
+	<string name="input_parser_invalid_address">Ungültige Vegascoin-Adresse gelesen!\n(Versuchst Du Mainnet/Testnet zu mischen?)</string>
 
 	<string name="preferences_activity_title">Einstellungen</string>
 	<string name="preferences_category_main">Einstellungen</string>

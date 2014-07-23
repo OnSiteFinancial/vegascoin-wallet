@@ -12,9 +12,9 @@
 	<string name="blockchain_state_progress_stalled">Sincronizzazione bloccata</string>
 	<string name="blockchain_state_progress_problem_storage">Sincronizzazione: problema di Memorizzazione</string>
 	<string name="blockchain_state_progress_problem_network">Sincronizzazione: problema di Rete</string>
-	<string name="wallet_address_fragment_your">Il tuo indirizzo Vegas:</string>
+	<string name="wallet_address_fragment_your">Il tuo indirizzo Vegascoin:</string>
 	<string name="wallet_address_fragment_clipboard_msg">Indirizzo Vegascoin copiato negli appunti</string>
-	<string name="wallet_addresses_fragment_add_dialog_title">Aggiungi un indirizzo Vegas</string>
+	<string name="wallet_addresses_fragment_add_dialog_title">Aggiungi un indirizzo Vegascoin</string>
 	<string name="wallet_addresses_fragment_add_dialog_message">Gli indirizzi Vegascoin non possono essere cancellati. Ne vuoi aggiungere uno nuovo?</string>
 	<string name="wallet_balance_fragment_replaying">Il conto non è disponibile durante la ripetizione.</string>
 	<string name="exchange_rates_activity_title">Tassi di cambio</string>
@@ -143,7 +143,7 @@
 	<string name="import_export_keys_dialog_password">password</string>
 	<string name="import_export_keys_dialog_show">Mostra password</string>
 	<string name="import_export_keys_dialog_failure_title">Errore</string>
-	<string name="import_keys_intent_filter_action">Ripristina la chiave Vegas</string>
+	<string name="import_keys_intent_filter_action">Ripristina la chiave Vegascoin</string>
 	<string name="scan_camera_problem_dialog_title">Scusa</string>
 	<string name="scan_camera_problem_dialog_message">La videocamera ha un problema. Probabilmente è necessario riavviare il dispositivo.</string>
 

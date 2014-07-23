@@ -3,13 +3,13 @@ Hab deine Vegascoins immer dabei, in deiner Hosentasche! Du zahlst, indem du ras
 FEATURES:
 
 • Keine Registrierung, Web-Dienst oder Cloud nötig! Diese Wallet ist de-zentral und Peer to Peer.
-• Anzeige von Vegas-Werten in VGC und mVGC.
+• Anzeige von Vegascoin-Werten in VGC und mVGC.
 • Umrechnung von und zu den nationalen Währungen.
 • Senden und Empfangen von digitalcoin via NFC, QR-Codes oder digitalcoin URLs.
 • Adressbuch für regelmäßig genutzte Empfänger.
 • Wenn du offline bist, kannst du trotzdem über Bluetooth zahlen.
 • System-Benachrichtigung für den Empfang von Zahlungen.
-• App-Widget zeigt Vegas-Guthaben an.
+• App-Widget zeigt Vegascoin-Guthaben an.
 >>>>>>> upstream/prod
 
 Weitere Informationen zu Vegascoin findest Du unter
