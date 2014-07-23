@@ -1,19 +1,19 @@
-Dengan aplikasi ini Anda selalu mempunyai Vegas dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Vegas Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+Dengan aplikasi ini Anda selalu mempunyai Vegascoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Vegascoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
 
 FITUR:
 
 • Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
-• Tampilkan saldo dompet dalam Vegas dan mata uang lainnya.
-• Mengirim dan menerima Vegas via NFC, kode-QR atau Tautan Vegas.
-• Buku alamat untuk alamat penggunaan Vegas secara reguler.
+• Tampilkan saldo dompet dalam Vegascoin dan mata uang lainnya.
+• Mengirim dan menerima Vegascoin via NFC, kode-QR atau Tautan Vegas.
+• Buku alamat untuk alamat penggunaan Vegascoin secara reguler.
 • Masukkan transaksi saat offline, akan dilaksanakan ketika online.
-• Notifikasi sistem untuk konektivitas Vegas dan menerima koin.
+• Notifikasi sistem untuk konektivitas Vegascoin dan menerima koin.
 • Widget Apl untuk saldo Vegas.
 
-Anda dapat mengetahui lebih mengenai Vegas di
+Anda dapat mengetahui lebih mengenai Vegascoin di
 http://www.vegascoin.co
 
-Jika Anda ingin berkontribusi kepada Vegas Wallet, proyeknya berada di
+Jika Anda ingin berkontribusi kepada Vegascoin Wallet, proyeknya berada di
 https://github.com/HashEngineering/vegas-wallet
 
 Lisensi: GPLv3

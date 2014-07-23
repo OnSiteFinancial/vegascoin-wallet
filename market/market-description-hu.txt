@@ -1,20 +1,20 @@
-Tartsd a zsebedben Vegasjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Vegas Tárca az első Vegas app és kétségkívül a legbiztonságosabb is!
+Tartsd a zsebedben Vegasjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Vegascoin Tárca az első Vegascoin app és kétségkívül a legbiztonságosabb is!
 
 ELŐNYÖK:
 
 • Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
 • A Vegasjaid mennyiségét VGC és mVGC formában is láthatod.
 • Átváltás a saját valutádra, oda-vissza.
-• Vegas küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
-• Címtár a rendszeresen használt Vegas címek számára.
+• Vegascoin küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
+• Címtár a rendszeresen használt Vegascoin címek számára.
 • Offline állapotban is fizethetsz - Bluetooth segítségével.
-• Rendszerüzenet Vegas érkezésekor.
-• Widget a Vegas egyenlegről.
+• Rendszerüzenet Vegascoin érkezésekor.
+• Widget a Vegascoin egyenlegről.
 
 Bővebben a Vegas-ról:
 http://www.vegascoin.co
 
-Ha hozzájárulnál a Vegas Wallet projekthez:
+Ha hozzájárulnál a Vegascoin Wallet projekthez:
 https://github.com/HashEngineering/vegas-wallet
 
 Licensz: GPLv3

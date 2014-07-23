@@ -11,7 +11,7 @@
 			android:title="Copyright" />
         <Preference
                 android:summary="Version v0.8.4.1-34-g5ca47fd-beta and above"
-                android:title="Vegas Compatibility" />
+                android:title="Vegascoin Compatibility" />
         <Preference
                 android:key="about_nativesupport"
                 android:title="Native Support" />

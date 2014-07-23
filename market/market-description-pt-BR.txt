@@ -1,4 +1,4 @@
-Tenha os seus Vegascoins sempre com você, no seu bolso! Efetue pagamentos rapidamente apenas escaneando um código QR​​. Como comerciante, você pode receber pagamentos de forma confiável e instantaneamente. O Vegas Wallet é o primeiro aplicativo Vegas móvel, e, possivelmente, o mais seguro!
+Tenha os seus Vegascoins sempre com você, no seu bolso! Efetue pagamentos rapidamente apenas escaneando um código QR​​. Como comerciante, você pode receber pagamentos de forma confiável e instantaneamente. O Vegascoin Wallet é o primeiro aplicativo Vegascoin móvel, e, possivelmente, o mais seguro!
 
 CARACTERÍSTICAS:
 
@@ -11,10 +11,10 @@ CARACTERÍSTICAS:
 • Notificações do sistema para moedas recebidas.
 • Widget para saldo de Vegascoins.
 
-Mais informações sobre Vegas em
+Mais informações sobre Vegascoin em
 http://www.vegascoin.co
 
-Se você deseja contribuir com o Vegas Wallet, o projeto encontra-se em
+Se você deseja contribuir com o Vegascoin Wallet, o projeto encontra-se em
 https://github.com/HashEngineering/vegas-wallet
 
 Licença: GPLv3

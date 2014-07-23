@@ -2,17 +2,17 @@ Consiste en una cartera de Vegascoins para tu dispositivo Android. Puedes enviar
 
 CARACTERÍSTICAS:
 
-• Visualización del saldo de la cartera en Vegas y en otras monedas.
+• Visualización del saldo de la cartera en Vegascoin y en otras monedas.
 • Envío y recpción de Vegascoins a través de NFC, códigos QR o URL Vegas.
-• Libreta de direcciones para guardar las direcciones Vegas utilizadas habitualmente.
+• Libreta de direcciones para guardar las direcciones Vegascoin utilizadas habitualmente.
 • Las transacciones se pueden llevar a cabo sin conexión, ejecutándose al recuperar la conexión.
-• Notificaciones de sistema para la conectividad a la red Vegas y para la recepción de Vegascoins.
+• Notificaciones de sistema para la conectividad a la red Vegascoin y para la recepción de Vegascoins.
 • Widget de aplicación para el saldo Vegas.
 
-Puedes descubrir más sobre Vegas en
+Puedes descubrir más sobre Vegascoin en
 http://www.vegascoin.co
 
-Si quieres contribuir a Vegas Wallet, el proyecto está localizado en
+Si quieres contribuir a Vegascoin Wallet, el proyecto está localizado en
 https://github.com/HashEngineering/vegas-wallet
 
 Licencia: GPLv3

@@ -83,7 +83,7 @@
 	<string name="send_coins_error_msg">Probleme durant l\'envoi !</string>
 	<string name="send_coins_options_empty">Vider le porte-feuille</string>
 	<string name="send_coins_address_context_clear_title">Entrer une nouvelle adresse</string>
-	<string name="request_coins_activity_title">Demander des Vegas coins</string>
+	<string name="request_coins_activity_title">Demander des Vegascoin coins</string>
 	<string name="request_coins_fragment_address_label">Adresse pour la requête</string>
 	<string name="request_coins_fragment_include_address_label">inclure une étiquette avec l\'adresse</string>
 	<string name="request_coins_fragment_amount_label">Montant demandé (optionnel)</string>
@@ -92,15 +92,15 @@
 	<string name="request_coins_fragment_initiate_request_qr">Faites scanner ce code par l\'expéditeur.</string>
 	<string name="request_coins_fragment_initiate_request_nfc">Ou bien rapprochez un appareil supportant la NFC.</string>
 	<string name="request_coins_fragment_bluetooth_enabled">Les paiements par Bluetooth sont acceptés.</string>
-	<string name="request_coins_clipboard_msg">Demande de Vegas coins collée dans le presse-papier</string>
-	<string name="request_coins_share_dialog_title">Publier la demande de Vegas coins…</string>
+	<string name="request_coins_clipboard_msg">Demande de Vegascoin coins collée dans le presse-papier</string>
+	<string name="request_coins_share_dialog_title">Publier la demande de Vegascoin coins…</string>
 	<string name="request_coins_options_local_app_title">Requête d\'une appli locale</string>
 
 	<string name="address_book_activity_title">Carnet d\'adresse</string>
 	<string name="address_book_list_receiving_title">Vos adresses</string>
 	<string name="address_book_list_sending_title">Adresses d\'envoi</string>
 	<string name="address_book_empty_text">Carnet d\'adresse vide</string>
-	<string name="address_book_context_send_title">Envoyer les Vegas coins à l\'adresse</string>
+	<string name="address_book_context_send_title">Envoyer les Vegascoin coins à l\'adresse</string>
 	<string name="address_book_context_edit_title">Modifier l\'adresse</string>
 	<string name="address_book_context_remove_title">Effacer l\'adresse</string>
 	<string name="address_book_context_show_qr_title">Afficher le code QR</string>
@@ -109,7 +109,7 @@
 	<string name="address_book_options_paste_from_clipboard_title">Coller depuis le presse-papiers</string>
 	<string name="address_book_options_copy_from_clipboard_msg_empty">Le presse-papiers est vide</string>
 	<string name="address_book_options_scan_title">Analyser l\'adresse</string>
-	<string name="address_book_row_message_compromised_key">Cette adresse peut-être compromise. Vous ne devriez pas l\'utiliser pour recevoir des Vegas coins.</string>
+	<string name="address_book_row_message_compromised_key">Cette adresse peut-être compromise. Vous ne devriez pas l\'utiliser pour recevoir des Vegascoin coins.</string>
 	<string name="edit_address_book_entry_dialog_title_add">Ajouter l\'adresse</string>
 	<string name="edit_address_book_entry_dialog_title_edit">Modifier l\'adresse</string>
 	<string name="edit_address_book_entry_dialog_address_label">Adresse</string>
@@ -155,8 +155,8 @@
 	<string name="export_keys_dialog_button_archive">Archiver</string>
 
 
-	<string name="export_keys_dialog_mail_subject">Sauvegarde des clefs privées de Vegas Wallet</string>
-	<string name="export_keys_dialog_mail_text">Le fichier chiffré attaché contient les clefs privées Vegas et doit être gardé en lieu sûr en tout temps. N\'oubliez pas le mot de passe du chiffrement !</string>
+	<string name="export_keys_dialog_mail_subject">Sauvegarde des clefs privées de Vegascoin Wallet</string>
+	<string name="export_keys_dialog_mail_text">Le fichier chiffré attaché contient les clefs privées Vegascoin et doit être gardé en lieu sûr en tout temps. N\'oubliez pas le mot de passe du chiffrement !</string>
 	<string name="export_keys_dialog_mail_intent_chooser">Archiver les clefs en utilisant…</string>
 	<string name="import_export_keys_dialog_password">mot de passe</string>
 	<string name="import_export_keys_dialog_show">Afficher le mot de passe</string>
@@ -165,8 +165,8 @@
 	<string name="scan_camera_problem_dialog_title">Désolé</string>
 	<string name="scan_camera_problem_dialog_message">La caméra a un problème. Vous devez probablement redémarrer votre appareil.</string>
 	<string name="input_parser_cannot_classify">Impossible de classifier l\'entrée :\n%s</string>
-	<string name="input_parser_invalid_bitcoin_uri">URI Vegas invalide :\n%s</string>
-	<string name="input_parser_invalid_address">Réception d\'une adresse Vegas invalide!\n(Mélange Mainnet/Testnet?)</string>
+	<string name="input_parser_invalid_bitcoin_uri">URI Vegascoin invalide :\n%s</string>
+	<string name="input_parser_invalid_address">Réception d\'une adresse Vegascoin invalide!\n(Mélange Mainnet/Testnet?)</string>
 	<string name="input_parser_invalid_transaction">Transaction invalide :\n%s</string>
 	<string name="preferences_activity_title">Réglages</string>
 

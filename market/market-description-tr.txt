@@ -1,19 +1,19 @@
-Vegas'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Vegas cüzdanı ilk mobil Vegas uygulamasıdır ve muhtemelen en güvenli Vegas uygulamasıdır!
+Vegas'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Vegascoin cüzdanı ilk mobil Vegascoin uygulamasıdır ve muhtemelen en güvenli Vegascoin uygulamasıdır!
 
 İŞLEVLERİ:
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Vegas meblağlarının BTC ve mBTC olarak gösterilmesi.
+• Vegascoin meblağlarının BTC ve mBTC olarak gösterilmesi.
 • Dövizlere ve dövizlerden dönüştürme.
-• NFC, QR kodu veya Vegas bağlantıları ile Vegas gönderir ve alır.
-• Sık kullanılan Vegas adresleri için adres defteri içerir.
+• NFC, QR kodu veya Vegascoin bağlantıları ile Vegascoin gönderir ve alır.
+• Sık kullanılan Vegascoin adresleri için adres defteri içerir.
 • Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
 • Alınan Vegas'ler için sistem bildirimleri.
-• Vegas bakiyesini görüntüleyen widget.
+• Vegascoin bakiyesini görüntüleyen widget.
 
-Vegas hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
+Vegascoin hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
 http://www.vegascoin.co
 
-Vegas Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
+Vegascoin Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
 https://github.com/HashEngineering/vegas-wallet
 
 Lisans: GPLv3

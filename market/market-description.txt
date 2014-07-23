@@ -1,20 +1,20 @@
-Have your Vegascoins always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. Vegas Wallet is the first mobile Vegas app, and arguably also the most secure!
+Have your Vegascoins always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. Vegascoin Wallet is the first mobile Vegascoin app, and arguably also the most secure!
 
 FEATURES:
 
 • No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
-• Display of Vegas amount in VGC and mVGC.
+• Display of Vegascoin amount in VGC and mVGC.
 • Conversion to and from national currencies.
-• Sending and receiving of Vegas via NFC, QR-codes or Vegas URLs.
-• Address book for regularly used Vegas addresses.
+• Sending and receiving of Vegascoin via NFC, QR-codes or Vegascoin URLs.
+• Address book for regularly used Vegascoin addresses.
 • When you're offline, you can still pay via Bluetooth.
 • System notification for received coins.
-• App widget for Vegas balance.
+• App widget for Vegascoin balance.
 
-You can find more about Vegas at
+You can find more about Vegascoin at
 http://www.vegascoin.co
 
-If you want to contribute to Vegas Wallet, the project is located at
+If you want to contribute to Vegascoin Wallet, the project is located at
 https://github.com/HashEngineering/vegas-wallet
 
 License: GPLv3

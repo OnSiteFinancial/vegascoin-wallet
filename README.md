@@ -1,4 +1,4 @@
-Welcome to _Vegas Wallet_, a standalone Vegas payment app for your Android device!
+Welcome to _Vegascoin Wallet_, a standalone Vegascoin payment app for your Android device!
 
 This project contains several sub-projects:
 

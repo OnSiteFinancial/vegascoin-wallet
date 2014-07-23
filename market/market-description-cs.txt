@@ -3,7 +3,7 @@ Tato aplikace je peněženka s Vegasy pro systém Android. Můžete posílat Veg
 VLASTNOSTI:
 
 • Zobrazení zůstatku peněženky v Vegasech a několika jiných měnách.
-• Odesílání a přijímání Vegasů pomocí NFC, QR-kódů, nebo Vegas adres.
+• Odesílání a přijímání Vegasů pomocí NFC, QR-kódů, nebo Vegascoin adres.
 • Adresář pro často používané adresy.
 • Možnost zadávání transakcí v offline režimu, k jejich zpracování dojde po připojení.
 • Oznamování v liště při synchronizaci a při přijetí Vegasů.
@@ -12,7 +12,7 @@ VLASTNOSTI:
 Více informací o Vegasech
 http://www.vegascoin.co
 
-Pokud chcete přispět do projektu Vegas Wallet, naleznete jej na adrese
+Pokud chcete přispět do projektu Vegascoin Wallet, naleznete jej na adrese
 https://github.com/HashEngineering/vegas-wallet
 
 License: GPLv3
