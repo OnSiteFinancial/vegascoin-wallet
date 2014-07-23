@@ -31,9 +31,9 @@
 	<string name="wallet_transactions_fragment_tab_received">Empfangen</string>
 	<string name="wallet_transactions_fragment_tab_all">Alle</string>
 	<string name="wallet_transactions_fragment_tab_sent">Gesendet</string>
-	<string name="wallet_transactions_fragment_empty_text_received">Noch keine VegasCoin coins empfangen.</string>
-	<string name="wallet_transactions_fragment_empty_text_sent">Noch keine VegasCoin coins gesendet.</string>
-	<string name="wallet_transactions_fragment_empty_text_howto">Wie komme ich an VegasCoin coins?\n\nHandle gegen traditionelles Geld,\nverkaufe Güter oder Dienstleistungen oder\nverdiene durch Arbeit.</string>
+	<string name="wallet_transactions_fragment_empty_text_received">Noch keine VegasCoins empfangen.</string>
+	<string name="wallet_transactions_fragment_empty_text_sent">Noch keine VegasCoins gesendet.</string>
+	<string name="wallet_transactions_fragment_empty_text_howto">Wie komme ich an VegasCoins?\n\nHandle gegen traditionelles Geld,\nverkaufe Güter oder Dienstleistungen oder\nverdiene durch Arbeit.</string>
 	<string name="wallet_transactions_row_warning_backup">Gratulation, du hast deine erste Zahlung erhalten! Hast du deine Wallet bereits &lt;u>gesichert&lt;/u>, um dich gegen Verlust zu schützen?</string>
 	<string name="wallet_transactions_fragment_coinbase">geschürft</string>
 	<string name="wallet_transactions_fragment_internal">intern</string>
@@ -44,11 +44,11 @@
 	<string name="wallet_donate_address_label">Spende für VegasCoin Wallet</string>
 	<string name="wallet_low_storage_dialog_title">Interner Speicher wird knapp!</string>
 	<string name="wallet_low_storage_dialog_msg">VegasCoin Wallet nutzt internen Speicher um sich Transaktionen und Blöcke zu merken. Wenn der
-		Speicher vollläuft, wird es nicht mehr funktionieren und Deine VegasCoin coins sind in Gefahr!\n\nMöchtest Du die
+		Speicher vollläuft, wird es nicht mehr funktionieren und Deine VegasCoins sind in Gefahr!\n\nMöchtest Du die
 		App-Verwaltung öffnen, um ungenutzte Apps zu deinstallieren?</string>
 	<string name="wallet_low_storage_dialog_button_apps">App-Verwaltung</string>
 	<string name="wallet_timeskew_dialog_title">Überprüfe Deine Zeit-Einstellungen!</string>
-	<string name="wallet_timeskew_dialog_msg">Deine Gerätezeit geht %d Minuten falsch. Deswegen kannst Du möglicherweise keine VegasCoin coins senden
+	<string name="wallet_timeskew_dialog_msg">Deine Gerätezeit geht %d Minuten falsch. Deswegen kannst Du möglicherweise keine VegasCoins senden
 		oder empfangen.\n\nDu solltest Deine Zeit- und Zeitzoneneinstellungen überprüfen und korrigieren.</string>
 	<string name="wallet_timeskew_dialog_button_settings">Einstellungen</string>
 	<string name="wallet_version_dialog_title">Eine neue Version ist verfügbar!</string>
@@ -56,9 +56,9 @@
 	<string name="wallet_version_dialog_button_market">Google Play</string>
 	<string name="wallet_version_dialog_button_binary">Herunterladen</string>
 	<string name="wallet_old_sdk_dialog_title">Android ist veraltet</string>
-	<string name="wallet_old_sdk_dialog_message">Es ist möglich, daß eine der nächsten Versionen von VegasCoin Wallet dein Gerät nicht mehr unterstützt. In manchen Fällen kann es schwierig werden, Zahlungen zu tätigen.\n\nEs wird empfohlen, die enthaltenen VegasCoin coins bald zu verschieben, außer du weisst was du tust.</string>
+	<string name="wallet_old_sdk_dialog_message">Es ist möglich, daß eine der nächsten Versionen von VegasCoin Wallet dein Gerät nicht mehr unterstützt. In manchen Fällen kann es schwierig werden, Zahlungen zu tätigen.\n\nEs wird empfohlen, die enthaltenen VegasCoins bald zu verschieben, außer du weisst was du tust.</string>
 
-	<string name="send_coins_activity_title">VegasCoin coins senden</string>
+	<string name="send_coins_activity_title">VegasCoins senden</string>
 	<string name="send_coins_fragment_receiving_address_label">Empfänger</string>
 	<string name="send_coins_fragment_receiving_address_hint">Adresse oder Namen</string>
 
@@ -80,11 +80,11 @@
 	<string name="send_coins_sending_msg">Versenden…</string>
 	<string name="send_coins_sent_msg">Versendet!</string>
 	<string name="send_coins_failed_msg">Fehlgeschlagen!</string>
-	<string name="send_coins_error_msg">Problem beim Versenden der VegasCoin coins!</string>
+	<string name="send_coins_error_msg">Problem beim Versenden der VegasCoins!</string>
 	<string name="send_coins_options_empty">Wallet entleeren</string>
 	<string name="send_coins_address_context_clear_title">Adresse neu eingeben</string>
 
-	<string name="request_coins_activity_title">VegasCoin coins anfordern</string>
+	<string name="request_coins_activity_title">VegasCoins anfordern</string>
 	<string name="request_coins_fragment_amount_label">Angeforderter Betrag (optional)</string>
 	<string name="request_coins_fragment_address_label">Anfordernde Adresse</string>
 	<string name="request_coins_fragment_include_address_label">Name der Adresse beifügen</string>
@@ -99,7 +99,7 @@
 	<string name="address_book_list_receiving_title">Deine Adressen</string>
 	<string name="address_book_list_sending_title">Sendeadressen</string>
 	<string name="address_book_empty_text">Keine Einträge im Adressbuch</string>
-	<string name="address_book_context_send_title">VegasCoin coins an Adresse senden</string>
+	<string name="address_book_context_send_title">VegasCoins an Adresse senden</string>
 	<string name="address_book_context_edit_title">Adresse ändern</string>
 	<string name="address_book_context_remove_title">Adresse entfernen</string>
 	<string name="address_book_context_default_title">Als Standardadresse setzen</string>
@@ -108,7 +108,7 @@
 	<string name="address_book_options_paste_from_clipboard_title">Aus dem Clipboard einfügen</string>
 	<string name="address_book_options_copy_from_clipboard_msg_empty">Clipboard ist leer</string>
 	<string name="address_book_options_scan_title">Adresse scannen</string>
-	<string name="address_book_row_message_compromised_key">Diese Adresse ist vielleicht kompromittiert. Du solltest sie nicht mehr zum Empfang von VegasCoin coins nutzen.</string>
+	<string name="address_book_row_message_compromised_key">Diese Adresse ist vielleicht kompromittiert. Du solltest sie nicht mehr zum Empfang von VegasCoins nutzen.</string>
 
 	<string name="edit_address_book_entry_dialog_title_add">Adresse hinzufügen</string>
 	<string name="edit_address_book_entry_dialog_title_edit">Adresse ändern</string>
